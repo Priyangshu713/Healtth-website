@@ -67,7 +67,8 @@
     "vaul": "^0.9.3",
     "zod": "^3.23.8",
     "zustand": "^5.0.3",
-    "@zxing/library": "^0.24.0"
+    "@zxing/library": "^0.21.3"
+
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
